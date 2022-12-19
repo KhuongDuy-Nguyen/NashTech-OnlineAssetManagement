@@ -1,2 +1,1 @@
-# NashTech-OnlineAssetManagement
-Asignment Plant 2 - Group 3
+# Online Asset Management - Plant 2 - Group 3

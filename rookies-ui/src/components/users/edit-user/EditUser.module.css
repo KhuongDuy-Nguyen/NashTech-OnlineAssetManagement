@@ -1,0 +1,16 @@
+.edit-user form {
+  padding: 40px;
+}
+
+.input {
+  width: 100%;
+  margin-bottom: 10px!important;
+}
+
+.btn {
+  text-align: end;
+}
+
+.btn button:nth-child(1) {
+  margin-right: 10px;
+}

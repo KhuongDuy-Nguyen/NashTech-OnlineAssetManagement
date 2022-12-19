@@ -2,3 +2,4 @@
 
 ![rookies](https://user-images.githubusercontent.com/57941238/208476648-2367dc80-230d-456b-9ba8-89c8f19fcfdd.png)
 
+> - Note: Frontend saved in rookies-ui and backend saved in rookies
